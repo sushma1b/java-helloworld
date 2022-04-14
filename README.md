@@ -1,2 +1,2 @@
 # java-helloworld
-first Eclipse Java Program - HellowWorld
+first Eclipse Java Program - HelloWorld
